@@ -10,3 +10,16 @@ div{
     margin-top: 194.5px;
     background: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
 }
+.head{
+    color: white;
+    padding-top: 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 9px black;
+}
+img{
+    width: 210px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
