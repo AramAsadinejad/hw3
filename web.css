@@ -9,6 +9,10 @@ div{
     border-radius: 10px;
     margin-top: 194.5px;
     background: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.527);
+}
+div:hover{
+    background : linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
 }
 .head{
     color: white;
